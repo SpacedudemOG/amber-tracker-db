@@ -1,0 +1,4 @@
+# amber tracker database — Pi-hole format
+# Generated from tracker_tactics.json
+# See https://github.com/spacedudem/amber-tracker-db for details
+# Total entries: 0
